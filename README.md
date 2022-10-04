@@ -1,2 +1,2 @@
-# blog
-A blog website
+# ui
+A simple ui
